@@ -3,4 +3,4 @@
 
 Elastique is a modern and unique take on Physical Therapy, featuring:
 - interactive 3D model of a human figure that performs exercises
-- AI-powered chat bot that is fine-tuned with the Google Gemini API to offer answers to a wide range of health-related questions
+- AI-powered chat bot that offers answers to a wide range of health-related questions via Google Gemini Pro
